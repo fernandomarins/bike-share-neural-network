@@ -16,8 +16,8 @@ conda create --name dlnd python=3
 
 4. Enter your new environment:
 
-4.1 Windows: `activate dlnd`
-4.2 Mac/Linux: `source activate dlnd`
+- Windows: `activate dlnd`
+- Mac/Linux: `source activate dlnd`
 
 5. Ensure you have `numpy`, `matplotlib`, `pandas`, and `jupyter notebook` installed by doing the following:
 ```
